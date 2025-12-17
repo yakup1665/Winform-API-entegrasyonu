@@ -50,4 +50,4 @@ Projeyi Build edin ve çalıştırın.
 
 "Veri Çek" butonuna basarak API entegrasyonunu deneyimleyin.
 
-Geliştirici: Yakup [Soyadın]
+Geliştirici: Yakup Daş
